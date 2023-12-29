@@ -1,1 +1,2 @@
-### Nothing now
+### Function list: https://docs.google.com/spreadsheets/d/1uKnQ28bAIsnDJKfqjznXktkfCw2sNFehlvrcC_MTJcc/edit#gid=0
+### DB design: https://drive.google.com/file/d/1diOw8cymsSL-ixLns-gHVvyZLqHU0UHv/view?usp=sharing
